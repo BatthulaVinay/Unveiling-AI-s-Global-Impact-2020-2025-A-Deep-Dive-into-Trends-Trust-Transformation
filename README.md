@@ -1,5 +1,4 @@
 # Unveiling-AI-s-Global-Impact-2020-2025-A-Deep-Dive-into-Trends-Trust-Transformation
-# Unveiling AI's Global Impact: 2020–2025
 
 ## Overview
 This project explores the global impact of Artificial Intelligence from 2020 to 2025. Using real-world datasets and visual analytics, it uncovers trends in AI adoption, investment, regional growth, and societal transformation driven by intelligent systems.
